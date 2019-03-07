@@ -1,0 +1,10 @@
+[package]
+name = "math"
+version = "0.1.0"
+authors = []
+edition = "2018"
+
+[lib]
+name = "math"
+path = "src/lib.rs"
+crate-type = ["rlib"]
